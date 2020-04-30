@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Covid-19 Tracker</string>
+    <string name="url">
+        <a href="https://corona.lmao.ninja/">https://corona.lmao.ninja/</a>
+    </string>
+    <string name="emergency">
+        <a href="https://www.mohfw.gov.in/">https://www.mohfw.gov.in/</a>
+    </string>
+</resources>
